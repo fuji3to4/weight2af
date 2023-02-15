@@ -75,7 +75,7 @@ let ih=<?=$ih?>
 //let ih=0
 let stage_h
 
-let file ="AF-<?=$uniprot?>-F1-model_v2.pdb"
+let file ="AF-<?=$uniprot?>-F1-model_v4.pdb"
 
 
 document.addEventListener("DOMContentLoaded", function () {
